@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amged Khotaby</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Khotaby</h1>
 <h3 align="center">Data Science & AI Enthusiast | Power BI Engineer | Machine Learning Specialist</h3>
 
 <p align="center">
