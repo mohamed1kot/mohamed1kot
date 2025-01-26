@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Programming: Python, SQL, Bash, C, DAX Data Visualization: Power BI, Tableau, Excel ETL: Python, SSIS, Power Query Machine Learning: TensorFlow, Scikit-learn, PyTorch Computer Vision: Open-CV Operating Systems: Linux, Docker Tools: Git, Google Colab, MS Office, Microsoft Fabric**
 
-- 👨‍💻 All of my projects are available at Power bi engineer [https://mavenanalytics.io/profile/880113f0-6071-708f-298a-c876dbf3b9ab](https://mavenanalytics.io/profile/880113f0-6071-708f-298a-c876dbf3b9ab)
+- 👨‍💻 All of my projects are available at Power bi engineer [mavenanalytics](https://mavenanalytics.io/profile/880113f0-6071-708f-298a-c876dbf3b9ab)
 
 - 📫 How to reach me **mohamedamgedkhotaby@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lO4T0nUdQ4QRkn8a9dJAOdwv5U9COEg8/view?usp=sharing](https://drive.google.com/file/d/1lO4T0nUdQ4QRkn8a9dJAOdwv5U9COEg8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lO4T0nUdQ4QRkn8a9dJAOdwv5U9COEg8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
