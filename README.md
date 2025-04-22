@@ -11,7 +11,7 @@
   - **Programming**: Python, SQL, Bash, C, DAX  
   - **Data Visualization**: Power BI, Tableau, Excel  
   - **ETL Tools**: Python, SSIS, Power Query  
-  - **Machine Learning**: TensorFlow, Scikit-learn, PyTorch  
+  - **Machine Learning**: TensorFlow, Scikit-learn
   - **Computer Vision**: OpenCV  
   - **Operating Systems**: Linux, Docker  
   - **Other Tools**: Git, Google Colab, Microsoft Fabric  
