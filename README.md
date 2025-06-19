@@ -24,6 +24,7 @@
 
 - 📄 **Know More About Me**:  
   Check out my [Resume](https://drive.google.com/file/d/1kh_38HVAwV4cHayfaJYzn87azqUV9U1I/view?usp=sharing).
+  Check out my [Portfolio](https://vscode-themed-portfolio-mu.vercel.app/)
 
 ---
 
