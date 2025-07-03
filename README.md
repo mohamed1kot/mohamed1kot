@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khotaby</h1>
-<h3 align="center">Data Science & AI Enthusiast | Power BI Engineer | Machine Learning Specialist</h3>
+<h3 align="center">Data Engineer | Power BI Engineer | Machine Learning</h3>
 
 <p align="center">
    Empowering data-driven decision-making with a passion for AI, data analytics, and innovative problem-solving.
@@ -8,16 +8,14 @@
 ---
 
 - 🌱 **Currently Exploring**:  
-  - **Programming**: Python, SQL, Bash, C, DAX  
+  - **Programming**: Python, SQL, Bash, C, DAX, 
   - **Data Visualization**: Power BI, Tableau, Excel  
   - **ETL Tools**: Python, SSIS, Power Query  
   - **Machine Learning**: TensorFlow, Scikit-learn, statsmodels
   - **Computer Vision**: OpenCV  
   - **Operating Systems**: Linux, Docker  
-  - **Other Tools**: Git, Google Colab, Microsoft Fabric  
+  - **Other Tools**: Git, Google Colab, Microsoft Fabric, Apache airflow   
 
-- 👨‍💻 **Projects**:  
-  Explore my interactive dashboards and data solutions on [Maven Analytics](https://mavenanalytics.io/profile/880113f0-6071-708f-298a-c876dbf3b9ab).
 
 - 📫 **Reach Me**:  
   [mohamedamgedkhotaby@gmail.com](mailto:mohamedamgedkhotaby@gmail.com)
